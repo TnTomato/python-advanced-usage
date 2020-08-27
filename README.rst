@@ -25,10 +25,10 @@ skills from here!
 
     list: [_ for _ in xxx]
 
+    iterator generator
+
     dict: {a: b for ... in ...}
 
     ``:=`` assginment operator
 
     class: private property
-
-    collections
