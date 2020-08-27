@@ -30,3 +30,5 @@ skills from here!
     ``:=`` assginment operator
 
     class: private property
+
+    collections
