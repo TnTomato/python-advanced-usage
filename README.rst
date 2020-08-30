@@ -12,7 +12,7 @@ skills from here!
 ..
     pass
 
-    package: __all__
+    magic methods: __all__
 
     standard lib
         os

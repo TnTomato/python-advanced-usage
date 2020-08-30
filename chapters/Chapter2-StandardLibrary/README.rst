@@ -1,4 +1,10 @@
 Standard Library
 ================
 
-Some common standard libraries.
+Some of the standard libraries and their usages.
+
+..
+    os
+    sys
+    typing
+    collections
